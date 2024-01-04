@@ -147,7 +147,7 @@ init();
 //This is a tool used to create a README file, based on the responses from a series of prompts.
 
 //Usage:
-//In the command console navigate to the Readme_generator directory. Then enter "node index.js".  Follow the instructions from each prompt hitting enter once you have completed your input.  When presented with a list use the keyboard arrow keys to select the desired input.
+//<video src="assets/readme_generator_demo.mp4" controls title="Title"></video>. In the command console navigate to the Readme_generator directory. Then enter "node index.js".  Follow the instructions from each prompt hitting enter once you have completed your input.  When presented with a list use the keyboard arrow keys to select the desired input.
 
 //Installation:
 //If you do not have Node installed already go the [Node]() website and follow instructions for installation.  After installed install the [inquire](https://www.npmjs.com/package/inquirer/v/8.2.4) package by typing "npm i inquirer" in the command console.
