@@ -37,7 +37,7 @@ const questions =
         },
         {
             type: 'input',
-            message: 'Please enter tests information',
+            message: 'Please enter test information',
             name: 'test',
         },
         {
@@ -142,3 +142,18 @@ function init() {
 
 // Function call to initialize app
 init();
+
+//Description: 
+//This is a tool used to create a README file, based on the responses from a series of prompts.
+
+//Usage:
+//In the command console navigate to the Readme_generator directory. Then enter "node index.js".  Follow the instructions from each prompt hitting enter once you have completed your input.  When presented with a list use the keyboard arrow keys to select the desired input.
+
+//Installation:
+//If you do not have Node installed already go the [Node]() website and follow instructions for installation.  After installed install the [inquire](https://www.npmjs.com/package/inquirer/v/8.2.4) package by typing "npm i inquirer" in the command console.
+
+//Constributing 
+// node, inquire, Theron Mitchell, Thanks to the Edex Instructors and TA's
+
+//Test
+//Run application.  Test pass if a file "README.md" appears same directory as index.js and has the user inputs from the prompts.

@@ -1,7 +1,7 @@
-# a &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# ReadMe Generator &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## Description: 
-a
+This is a tool to create
 
  ## Table of contents
  * [Installation](#installation)
@@ -11,27 +11,25 @@ a
  * [Test](#test)
  * [Questions](#questions)
 ## Installation
-a
+asd
 
 ## Usage
-a
+ads
 
 ## Contributions
-a
+sd
 
 ## License
-#### MIT
-Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the “Software”), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+#### GNU
+Copyright © 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
-        The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
-        
-        THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+        Everyone is permitted to copy and distribute verbatim copies of this license document, but changing it is not allowed.
 
 ## Test
-a
+s
 
 ## Questions
-Github account: [a](https://github.com/a)
+Github account: [tronmitch](https://github.com/tronmitch)
 
-Email: [a](a)
+Email: [theron.mitchell@gmail.com](theron.mitchell@gmail.com)
 
